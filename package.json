@@ -1,0 +1,16 @@
+{
+  "name": "codeceptjs-web",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@wdio/selenium-standalone-service": "^7.20.3",
+    "codeceptjs": "^3.3.3",
+    "webdriverio": "^6.12.1"
+  }
+}
