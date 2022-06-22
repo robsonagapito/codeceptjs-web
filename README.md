@@ -1,2 +1,2 @@
 # codeceptjs-web
-Testing with Codeceptjs for Application Web
+Testing with Codeceptjs for Web Application
